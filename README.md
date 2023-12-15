@@ -39,7 +39,6 @@ Indie full-stack developer and digital content creator, crafting my vision of th
 - 🌐 Certified Pega System Architect
 - 🍏 Certified Apple Technician for all Apple products
 
-- 
 ### 📊 My Digital Footprint
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mashal99&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Ahmed's GitHub Stats" />

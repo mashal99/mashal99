@@ -2,11 +2,8 @@
 
 **`Digital Magician (Developer/Innovator/Creator)`**
 
-Indie full-stack developer and digital content creator, crafting my vision of the tech world one line of code at a time. My projects are a blend of creativity and functionality, built from scratch to solve real-world puzzles. Fluent in Arabic and English, I weave multicultural narratives into my work, making it globally accessible and relatable.
+Indie full-stack developer specializing in crafting innovative mobile applications, I bring my vision of the tech world to life one line of code at a time. My projects are a harmonious blend of creativity and functionality, meticulously built from the ground up to solve real-world challenges. Fluent in Arabic and English, I infuse multicultural insights into my work, ensuring global accessibility and relevance. With each app, I aim to bridge gaps, connect ideas, and create user-friendly digital experiences that resonate across cultures.
 
-   <p align="left">
-      <!-- Icons for social media and GitHub stats can be added here -->
-   </p>
 
 ---
 
@@ -40,7 +37,7 @@ Indie full-stack developer and digital content creator, crafting my vision of th
 - 🍏 Certified Apple Technician for all Apple products
 
 ### 📊 My Digital Footprint
-<a href="https://github.com/anuraghazra/github-readme-stats">
+|<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mashal99&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Ahmed's GitHub Stats" />
 </a> |
 <a href="https://github.com/anuraghazra/github-readme-stats">
